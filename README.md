@@ -56,7 +56,7 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+[https://youtu.be/YXIo9lF3S1I?si=k-35WI90L0kM936p]
 
 
 ## Team Contributions
