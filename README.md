@@ -12,7 +12,7 @@
 
 ### Hosted Project Link
 
-[]
+[https://youtu.be/YXIo9lF3S1I?si=k-35WI90L0kM936p]
 
 ### Project Description
 [Come with us while we discover how Android Studios work and somehow make a login app which hopefully works.]
