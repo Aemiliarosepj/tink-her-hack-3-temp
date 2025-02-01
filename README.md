@@ -1,99 +1,68 @@
-# [Project Name] 🎯
+# [Login App] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [JuViMi]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Devika Thampi (Team Lead)] - [Albertian Institute of Science and Technology]
+- Member 2: [Aemilia Rose P J] - [Albertian Institute of Science and Technology]
+- Member 3: [Anjali Binu] - [Albertian Institute of Science and Technology]
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+
+[]
 
 ### Project Description
-[2-3 lines about what your project does]
+[Come with us while we discover how Android Studios work and somehow make a login app which hopefully works.]
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+[(1)Have very little idea about Android Studios
+(2)Have no idea about XML
+(3)Android Studios drained the battery of laptop like its orange juice
+(4)Pain of the person who judges our project]
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+[Helps new users to login and do absolutly nothing else, hopefully this works as we expect it to.]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [Kotlin]
+- [XML]
+- [Java]
+- [Android Studios]
+- [Canva]
+- [ChatGPT]
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- [Laptops]
+- [Smartphones]
+- [Tablet]
+- [Headphones]
 
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
-
-### Project Documentation
-For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot - 1]((https://github.com/user-attachments/assets/85d5777d-2b91-4b6d-91a1-eb4fb914a659)
+)
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot - 2]((https://github.com/user-attachments/assets/3df88d0b-2fc3-41b8-a4ba-59bffcece720)
+)
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot - 3]((https://github.com/user-attachments/assets/dd17db1d-81e1-41fb-998a-e298f421042d)
+)
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Team](Add photo of your team here)
-
-
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
 [Add your demo video link here]
-*Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Devika Thampi]: [Canva, ChatGPT, Android Studios]
+- [Aemilia Rose P J]: [Canva, ChatGPT, Android Studios]
+- [Anjali Binu]: [Canva, ChatGPT, Android Studios]
 
 ---
 Made with ❤️ at TinkerHub
